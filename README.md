@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mario Rotaru — web developer, founder of RTR Tech Solutions" width="100%">
+  <img src="./assets/banner.svg" alt="Mario Rotaru" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://rtrsolutions.ro"><img src="https://img.shields.io/badge/RTR_TECH_SOLUTIONS-ec4b93?style=for-the-badge&logoColor=00F5FF&labelColor=121212&color=ec4b93" alt="RTR Tech Solutions"></a>
+  <img src="https://img.shields.io/badge/ROMANIA_🇷🇴-121212?style=for-the-badge" alt="Romania">
 </p>
 
 <br>
 
-<img src="./assets/title-projects.svg" alt="Featured projects" width="100%">
+<p align="center"><img src="./assets/title-projects.svg" alt="Featured projects" width="100%"></p>
 
 <p align="center">
   <a href="https://busolasistemica.ro"><img src="./assets/project-1.svg" alt="Busola Sistemică" width="49%"></a><a href="https://mrwebsites.ro"><img src="./assets/project-2.svg" alt="MRWebsites" width="49%"></a>
@@ -21,7 +26,7 @@
 
 <br>
 
-<img src="./assets/title-stack.svg" alt="Tech stack" width="100%">
+<p align="center"><img src="./assets/title-stack.svg" alt="Tech stack" width="100%"></p>
 
 <p align="center">
   <img src="./assets/stack.svg" alt="Astro, React, TypeScript, JavaScript, Tailwind CSS, Node.js, Vite, Supabase, PostgreSQL, Docker, NGINX, Three.js, Stripe, Git" width="100%">
@@ -29,7 +34,7 @@
 
 <br>
 
-<img src="./assets/title-activity.svg" alt="Activity" width="100%">
+<p align="center"><img src="./assets/title-activity.svg" alt="Activity" width="100%"></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rotaruuu/rotaruuu/output/snake.svg" alt="Contribution snake" width="100%">
