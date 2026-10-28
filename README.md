@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Mario Rotaru" width="100%">
+</p>
 
-<!--
-**rotaruuu/rotaruuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://rtrsolutions.ro"><img src="https://img.shields.io/badge/RTR_TECH_SOLUTIONS-110B24?style=for-the-badge&logoColor=00F5FF&labelColor=110B24&color=A855F7" alt="RTR Tech Solutions"></a>
+  <img src="https://img.shields.io/badge/ROMANIA_🇷🇴-110B24?style=for-the-badge" alt="Romania">
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="./assets/title-projects.svg" alt="Featured projects" width="100%"></p>
+
+<p align="center">
+  <a href="https://busolasistemica.ro"><img src="./assets/project-1.svg" alt="Busola Sistemică" width="49%"></a><a href="https://mrwebsites.ro"><img src="./assets/project-2.svg" alt="MRWebsites" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://tiravis.ro"><img src="./assets/project-3.svg" alt="Tiravis" width="49%"></a><a href="https://rtr-tech-solutions.github.io/vatra-nord-demo/"><img src="./assets/project-4.svg" alt="Vatra Nord" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://rtr-tech-solutions.github.io/gravio-demo/"><img src="./assets/project-5.svg" alt="Gravio" width="49%"></a><a href="https://loxmobila.ro"><img src="./assets/project-6.svg" alt="LOX Mobila" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://rtr-tech-solutions.github.io/dof-land/"><img src="./assets/project-7.svg" alt="Dof Land" width="49%"></a><a href="https://lipancarmen.ro"><img src="./assets/project-8.svg" alt="Firul Strămoșilor" width="49%"></a>
+</p>
+
+<br>
+
+<p align="center"><img src="./assets/title-stack.svg" alt="Tech stack" width="100%"></p>
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Astro, React, TypeScript, JavaScript, Tailwind CSS, Node.js, Vite, Supabase, PostgreSQL, Docker, NGINX, Three.js, Stripe, Git" width="100%">
+</p>
+
+<br>
+
+<p align="center"><img src="./assets/title-activity.svg" alt="Activity" width="100%"></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rotaruuu/rotaruuu/output/snake.svg" alt="Contribution snake" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://rtrsolutions.ro"><img src="./assets/footer.svg" alt="rtrsolutions.ro" width="100%"></a>
+</p>
