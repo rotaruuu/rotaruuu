@@ -21,7 +21,7 @@
   <a href="https://onixx.ro"><img src="./assets/project-5.svg?v=4" alt="Onixx" width="49%"></a><a href="https://loxmobila.ro"><img src="./assets/project-6.svg?v=4" alt="LOX Mobila" width="49%"></a>
 </p>
 <p align="center">
-  <a href="https://rtr-tech-solutions.github.io/dof-land/"><img src="./assets/project-7.svg?v=4" alt="Dof Land" width="49%"></a><a href="https://rtrsolutions.ro"><img src="./assets/project-8.svg?v=4" alt="RTR Client API" width="49%"></a>
+  <a href="https://rtr-tech-solutions.github.io/dof-land/"><img src="./assets/project-7.svg?v=4" alt="Dof Land" width="49%"></a>
 </p>
 
 <br>
